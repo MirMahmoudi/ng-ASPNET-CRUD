@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards.API", "Cards.API\Cards.API.csproj", "{20C2D002-14B9-4E8A-B31D-5E3A47D230BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C2D002-14B9-4E8A-B31D-5E3A47D230BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C2D002-14B9-4E8A-B31D-5E3A47D230BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C2D002-14B9-4E8A-B31D-5E3A47D230BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C2D002-14B9-4E8A-B31D-5E3A47D230BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57563799-9AC5-4579-A519-43BEBB75C2BE}
+	EndGlobalSection
+EndGlobal
